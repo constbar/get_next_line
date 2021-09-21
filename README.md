@@ -1,6 +1,6 @@
 ## get_next_line
 
-project of 42 school where it is necessary to create a custom function that reads from a file descriptor line by line in C.
+project of 42 school where it is necessary to create a custom function in C that reads from a file descriptor line by line.
 
 get_next_line function in a loop will allow you to read the whole text available in the file descriptor till eof.
 
